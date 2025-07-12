@@ -9,10 +9,9 @@
 
 ## 📖 Overview
 
-This repository contains the code, data references, and documentation for my bachelor's thesis titled:
+This repository contains the **bachelor's thesis** and **code** for the project titled:
 
-> **"Evaluating Machine Learning Algorithm Performance Across Datasets:  
-> A Study Using the Elo-Based Predictive Power Measure on OpenML"**
+> **"Evaluating Machine Learning Algorithm Performance Across Datasets: A Study Using the Elo-Based Predictive Power Measure on OpenML"**
 
 The aim of this thesis is to conduct a cross-sectional analysis of machine learning model performance using the **EPP (Elo-Based Predictive Power)** quality measure.
 
