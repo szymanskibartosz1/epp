@@ -1,5 +1,4 @@
-# Evaluating Machine Learning Algorithm Performance Across Datasets  
-### A Study Using the Elo-Based Predictive Power Measure on OpenML  
+# Evaluating Machine Learning Algorithm Performance Across Datasets: A Study Using the Elo-Based Predictive Power Measure on OpenML  
 
 📘 **Author:** Bartosz Szymański  
 🎓 **Thesis Type:** Bachelor’s Thesis  
